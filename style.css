@@ -2,11 +2,6 @@
     background-image: url("nav.png");
    
   }
-  
-  .navbar>a{
-      
-  }
-  
   .search-div{
       padding: 0px 9px;
       border: 1px solid rgb(232, 232, 232);
@@ -22,8 +17,8 @@
       height: 45px;
   }
   .sign-in{
-      background-color: #f94a3d !important;
-      font-size: 20px !important;
+      background-color: #f94a3d;
+      font-size: 20px ;
       border-color: #f94a3d;
   }
   
